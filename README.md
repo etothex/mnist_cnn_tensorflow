@@ -3,7 +3,7 @@
 - train_dnn.py
     - 两层全连接层
 - train_cnn.py/train_eval_cnn.py/train_eval_cnn_monitor.py
-- 卷积神经网络：两层block（卷积+池化）+ 两层全连接
+    - 卷积神经网络：两层block（卷积+池化）+ 两层全连接
 - train_eval_cnn_multi_gpu.py
     - 卷积神经网络，多GPU训练
 - train_eval_cnn_multi_process.py
